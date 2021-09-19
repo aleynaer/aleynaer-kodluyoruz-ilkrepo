@@ -1,4 +1,4 @@
-# aleynaer-kodluyoruz-ilkrepo
+# aleynaer-patika-GIT Eğitimi
 Patika - GIT eğitimi kapsamında açtığım ilk repo
 
 
